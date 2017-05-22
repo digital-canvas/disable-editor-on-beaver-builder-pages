@@ -5,8 +5,8 @@ Description: Disable editor tabs on pages managed with beaver builder
 Version: 1.0.0
 Author: Jonathan Bernardi
 Author URI: https://www.digitalcanvas.com
-License: GPL3
-License URI: https://www.gnu.org/licenses/gpl-3.0.txt
+License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.txt
 */
 
 function disable_editor_on_beaver_builder_pages() {
