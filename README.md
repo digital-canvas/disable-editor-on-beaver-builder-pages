@@ -22,3 +22,5 @@ Jeff Shaikh
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
+
+see LICENSE file for full License
