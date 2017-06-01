@@ -15,7 +15,7 @@ Simply download the plugin and install in WordPress plugin directory and Activat
 
 ## Contributors
 
-Jonathan Bernardi 
+Jonathan Bernardi,
 Jeff Shaikh
 
 ## License
